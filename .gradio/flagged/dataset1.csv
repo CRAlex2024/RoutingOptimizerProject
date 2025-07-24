@@ -1,0 +1,3 @@
+Latency (ms),Jitter (ms),Packet Loss (%),Convergence (s),Cisco-only Network,Large Network (>15 routers),Admin Preference,output,timestamp
+50,20,0.5,20,true,true,None,"Recommended Protocol: OSPF 
+Viable Options: EIGRP",2025-07-16 00:21:16.475874
